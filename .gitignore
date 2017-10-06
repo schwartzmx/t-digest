@@ -1,0 +1,8 @@
+.ensime
+.ensime_cache/
+ensime-langserver.log
+ensime.sbt
+pc.stdout.log
+project/
+target/
+src/main/java/
